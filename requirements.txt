@@ -1,0 +1,8 @@
+pandas
+numpy
+ultralytics
+pycocotools
+# https://github.com/facebookresearch/segment-anything.git (clone this is terminal)
+
+
+
